@@ -1,0 +1,1 @@
+# solr-with-jts-docker
